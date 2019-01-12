@@ -1,4 +1,2 @@
 # text
-the first repository 
-+lucas created a github
-+lucas had a plan
+[黄智毅个人gitee页] (https://gitee.com/lucaszy/events)
